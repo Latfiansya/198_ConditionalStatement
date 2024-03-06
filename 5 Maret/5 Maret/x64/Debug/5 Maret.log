@@ -1,0 +1,3 @@
+﻿  5 Maret.cpp
+C:\Pemograman\5 Maret\5 Maret.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  5 Maret.vcxproj -> C:\Pemograman\5 Maret\x64\Debug\5 Maret.exe

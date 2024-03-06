@@ -1,0 +1,3 @@
+﻿  Membandingkan Nilai A dan B.cpp
+C:\Pemograman\Membandingkan Nilai A dan B\Membandingkan Nilai A dan B.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Membandingkan Nilai A dan B.vcxproj -> C:\Pemograman\Membandingkan Nilai A dan B\x64\Debug\Membandingkan Nilai A dan B.exe

@@ -1,0 +1,3 @@
+﻿  Prak PemDas 5 Maret.cpp
+C:\Pemograman\Prak PemDas 5 Maret\Prak PemDas 5 Maret.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Prak PemDas 5 Maret.vcxproj -> C:\Pemograman\Prak PemDas 5 Maret\x64\Debug\Prak PemDas 5 Maret.exe
